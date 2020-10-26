@@ -17,4 +17,12 @@ As can be seen the relationship of more drivers to rides in the urban setting be
 to rural. Another data point of note is that there a lot more rides in the urban setting. This rapidly decreases in the
 suburban and rural settings. Finally, it is important to notice that the fares are a lot cheaper in the urban cities.
 
+All in all, the urban cities resulted in a lot more revenue for PyBer. That can be seen in the chart below:
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/71234992/97136774-48e85280-1711-11eb-8464-36590645c071.png)
+
 ## Summary
+In summary the differences in fares and drivers can assist the CEO to make business changes. One, the CEO can focus on
+adjusting fares upward in the urban cities. It is clear that the demand is there. Two, it might be beneficial to
+decrease fares in the rural cities. These fares are very high per ride. This might be decreasing demand. Third, the CEO
+could try to recruit more drivers in the rural areas. Conclusively this data can assist V. Isulize to improve revenue.
